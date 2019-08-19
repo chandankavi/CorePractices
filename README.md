@@ -23,7 +23,8 @@ Nuget Packages used
   
 Steps to run the dev. environment
 
-1.Build the solution with required .net core dependancies
+1.Build the solution with required .net core dependancies(Resolve dependencies using nuget and assemblies)
 2.Set EvolentContact as startup project
-3.Use Postman or Fidller to test the URI's
+3.Use Postman or Fidller to test the URIs
 4.You can also use unit tests to test the API with dummy json already created in EvolentContactTest project
+  (Please note, in Unit test projet->DBContextExtension.cs->#line23 - change the contacts.json file path to your project directory file path.
