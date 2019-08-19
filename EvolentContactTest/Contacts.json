@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "firstName": "Albert",
+    "lastName": "Einstine",
+    "email": "ae.cu.com",
+    "phone": "8008033223",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "firstName": "Chandan",
+    "lastName": "Kavi",
+    "email": "ck@gmail.com",
+    "phone": "2020121230",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "firstName": "Sunflora",
+    "lastName": "Rodrigues",
+    "email": "sr@gmail.com",
+    "phone": "8008033223",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "firstName": "Corbin",
+    "lastName": "Blue",
+    "email": "CB@gmail.com",
+    "phone": "8008033223",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "firstName": "Vanissa",
+    "lastName": "Hudgene",
+    "email": "VH@yahoo.com",
+    "phone": "8008033223",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "firstName": "Albert",
+    "lastName": "Einstine",
+    "email": "ae.cu.com",
+    "phone": "8008033223",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "firstName": "Zac",
+    "lastName": "Efron",
+    "email": "ZE@gmail.com",
+    "phone": "8008033223",
+    "status": 1
+  }
+]
